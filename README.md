@@ -1,9 +1,3 @@
-# TurboWarp Packager
-
-https://packager.turbowarp.org/
-
-Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux.
-
 ## Development
 
 Install dependencies:

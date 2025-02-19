@@ -96,7 +96,7 @@
         "pageTitle": "Titolo della pagina",
         "playerOptions": "Opzioni Player",
         "pointerlock": "Blocca puntatore del mouse",
-        "pointerlockHelp": "Basato su TurboWarp Sperimentale.",
+        "pointerlockHelp": "Basato su BubbleWrap Sperimentale.",
         "preserveRatio": "Mantieni le proporzioni quando si ridimensiona (raccomandato)",
         "preview": "Anteprima",
         "projectId": "ID progetto",
@@ -145,7 +145,7 @@
     "p4": {
         "browserNotSupported": "Browser non supportato",
         "browserNotSupportedDescription": "Ti preghiamo di aggiornare il tuo browser.",
-        "cannotAccessProject": "Impossibile accedere al token del progetto. Il progetto potrebbe non essere condiviso, non esistere, l'ID potrebbe non essere corretto o la tua rete potrebbe bloccare turbowarp.org.",
+        "cannotAccessProject": "Impossibile accedere al token del progetto. Il progetto potrebbe non essere condiviso, non esistere, l'ID potrebbe non essere corretto o la tua rete potrebbe bloccare BubbleWrap.org.",
         "cannotAccessProjectCaching": "Se il progetto è stato condiviso da poco, potrebbero essere necessari alcuni minuti prima che questo messaggio scompaia.",
         "close": "Chiudi",
         "description1": "Converte i progetti Scratch in file HTML, archivi zip o programmi eseguibili per Windows, macOS e Linux.",

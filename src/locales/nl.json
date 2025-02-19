@@ -96,7 +96,7 @@
         "pageTitle": "Paginatitel",
         "playerOptions": "Speleropties",
         "pointerlock": "Muisaanwijzer vergrendelen",
-        "pointerlockHelp": "Gebaseerd op een TurboWarp-Experiment.",
+        "pointerlockHelp": "Gebaseerd op een BubbleWrap-Experiment.",
         "preserveRatio": "Beeldverhouding behouden bij verandering (aanbevolen)",
         "preview": "Voorbeeld",
         "projectId": "Project-ID",
@@ -147,7 +147,7 @@
     "p4": {
         "browserNotSupported": "Browser wordt niet ondersteund",
         "browserNotSupportedDescription": "Update je browser.",
-        "cannotAccessProject": "Geen toegang tot projecttoken. Dit betekent meestal dat het project niet gedeeld is, nooit heeft bestaan, het ID ongeldig is, of turbowarp.org wordt geblokkeerd door je netwerk.",
+        "cannotAccessProject": "Geen toegang tot projecttoken. Dit betekent meestal dat het project niet gedeeld is, nooit heeft bestaan, het ID ongeldig is, of BubbleWrap.org wordt geblokkeerd door je netwerk.",
         "cannotAccessProjectCaching": "Als het project recentelijk is gedeeld kan het een paar minuten duren voordat dit bericht verdwijnt.",
         "close": "Sluiten",
         "description1": "Zet Scratch-projecten om in HTML-bestanden, zip-archieven, of uitvoerbare programma's voor Windows, macOS, en Linux.",

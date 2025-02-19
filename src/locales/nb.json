@@ -94,7 +94,7 @@
         "pageTitle": "Side tittel",
         "playerOptions": "Spilleralternativer",
         "pointerlock": "Lås muspekeren",
-        "pointerlockHelp": "Basert på et TurboWarp-eksperiment.",
+        "pointerlockHelp": "Basert på et BubbleWrap-eksperiment.",
         "preserveRatio": "Behold aspektforholdet når det endres i størrelse (anbefalt)",
         "preview": "Forhåndsvisning",
         "projectId": "Prosjekt-ID",
@@ -135,7 +135,7 @@
     "p4": {
         "browserNotSupported": "Nettleseren støttes ikke",
         "browserNotSupportedDescription": "Vennligst oppdater nettleseren din.",
-        "cannotAccessProject": "Kan ikke få tilgang til prosjektetoken. Dette betyr vanligvis at prosjektet ikke er delt, aldri har eksistert, ID-en er ugyldig, eller nettverket ditt blokkerer turbowarp.org.",
+        "cannotAccessProject": "Kan ikke få tilgang til prosjektetoken. Dette betyr vanligvis at prosjektet ikke er delt, aldri har eksistert, ID-en er ugyldig, eller nettverket ditt blokkerer BubbleWrap.org.",
         "cannotAccessProjectCaching": "Hvis prosjektet ble delt nylig, kan det ta noen minutter før denne meldingen forsvinner.",
         "close": "Lukk",
         "description1": "Konverterer Scratch-prosjekter til HTML-filer, zip-arkiver eller kjørbare programmer for Windows, macOS og Linux.",

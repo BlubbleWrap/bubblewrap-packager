@@ -95,7 +95,7 @@
         "pageTitle": "Sivun otsikko",
         "playerOptions": "Soittimen asetukset",
         "pointerlock": "Lukitse hiiren kohdistin",
-        "pointerlockHelp": "Pohjautuu TurboWarpin kokeiluun.",
+        "pointerlockHelp": "Pohjautuu BubbleWrapin kokeiluun.",
         "preserveRatio": "Säilytä kuvasuhde, kun koko muuttuu (suositeltava)",
         "preview": "Esikatsele",
         "projectId": "Projektitunnus",
@@ -137,7 +137,7 @@
     "p4": {
         "browserNotSupported": "Selainta ei tueta",
         "browserNotSupportedDescription": "Päivitä selain.",
-        "cannotAccessProject": "Projektitunnusta ei löytynyt. Yleensä tämä tarkoittaa sitä, että projekti on jakamaton tai sitä ei ikinä ollut olemassa, projektitunnus on virheellinen tai verkkosi estää turbowarp.org:in.",
+        "cannotAccessProject": "Projektitunnusta ei löytynyt. Yleensä tämä tarkoittaa sitä, että projekti on jakamaton tai sitä ei ikinä ollut olemassa, projektitunnus on virheellinen tai verkkosi estää BubbleWrap.org:in.",
         "cannotAccessProjectCaching": "Jos projekti jaettiin äskettäin, tämän viestin poistumiseen saattaa kulua muutamia minuutteja.",
         "close": "Sulje",
         "description1": "Muuntaa Scratch-projekteja HTML-tiedostoiksi, zip-arkistoiksi tai suoritettaviksi Windows-, macOS- tai Linux-ohjelmiksi.",

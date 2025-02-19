@@ -93,7 +93,7 @@
         "pageTitle": "Sayfa başlığı",
         "playerOptions": "Oynatıcı ayarları",
         "pointerlock": "Fare kürsörü kilitle",
-        "pointerlockHelp": "Bir TurboWarp Deneyine dayanmaktadır.",
+        "pointerlockHelp": "Bir BubbleWrap Deneyine dayanmaktadır.",
         "preserveRatio": "Yeniden boyutlandırıldığında en/boy oranını koru (önerilen)",
         "preview": "Önizleme",
         "projectId": "Proje ID'si",
@@ -134,7 +134,7 @@
     "p4": {
         "browserNotSupported": "Tarayıcı desteklenmiyor",
         "browserNotSupportedDescription": "Lütfen tarayıcınızı güncelleyin.",
-        "cannotAccessProject": "Proje belirtecine erişilemiyor. Bu genellikle projenin paylaşılmadığı, hiçbir zaman var olmadığı, kimliğin geçersiz olduğu veya ağınızın turbowarp.org'u engellediği anlamına gelir.",
+        "cannotAccessProject": "Proje belirtecine erişilemiyor. Bu genellikle projenin paylaşılmadığı, hiçbir zaman var olmadığı, kimliğin geçersiz olduğu veya ağınızın BubbleWrap.org'u engellediği anlamına gelir.",
         "cannotAccessProjectCaching": "Proje yakın zamanda paylaşıldıysa bu mesajın kaybolması birkaç dakika sürebilir.",
         "close": "Kapat",
         "description1": "Scratch Projeleri Windows, macOS, ve Linux ile HTML dosyalara, zip arçivelere yada uygulamaya dönüştürebilir.",
