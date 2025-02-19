@@ -90,7 +90,7 @@
         "pageTitle": "Sidans namn",
         "playerOptions": "Spelaralternativ",
         "pointerlock": "Lås muspekaren",
-        "pointerlockHelp": "Baserad på ett TurboWarp experiment.",
+        "pointerlockHelp": "Baserad på ett BubbleWrap experiment.",
         "preserveRatio": "Bevara bildförhållandet när du ändrar storlek (rekomenderat)",
         "preview": "Förhandsvisning",
         "projectId": "Projekt ID",
@@ -129,7 +129,7 @@
     "p4": {
         "browserNotSupported": "Webbläsaren stöds inte",
         "browserNotSupportedDescription": "Uppdatera din webbläsare.",
-        "cannotAccessProject": "Kan inte åtkomma projektens token. Detta betyder främst att projektet är odelat, aldrig existerade, eller är ID:et felaktigt, eller blockerar ditt nätverk turbowarp.org.",
+        "cannotAccessProject": "Kan inte åtkomma projektens token. Detta betyder främst att projektet är odelat, aldrig existerade, eller är ID:et felaktigt, eller blockerar ditt nätverk BubbleWrap.org.",
         "cannotAccessProjectCaching": "Om projektet har varigt delat nyligen så kommer det ta några minuter för detta meddelande att gå bort",
         "close": "Stäng",
         "description1": "Konverterar Scratch projekt till HTML filer, zip arkiv eller program som kan köras på Windows, MacOS och Linux.",

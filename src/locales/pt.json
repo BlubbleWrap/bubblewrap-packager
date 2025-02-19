@@ -68,7 +68,7 @@
         "pageTitle": "Título da página",
         "playerOptions": "Opções do Player",
         "pointerlock": "Bloquear o cursor",
-        "pointerlockHelp": "Baseado em um Experimento do TurboWarp",
+        "pointerlockHelp": "Baseado em um Experimento do BubbleWrap",
         "preserveRatio": "Preservar a proporção da tela quando redimensionada (recomendado)",
         "preview": "Pré-visualizar",
         "projectId": "ID do Projeto",
@@ -101,7 +101,7 @@
     "p4": {
         "close": "Fechar",
         "description1": "Converte projetos do Scratch para arquivos HTML, ZIP, ou programas executáveis para Windows, macOS e Linux.",
-        "description2": "Se você apenas quer um jeito fácil de colocar um projeto do TurboWarp no seu site, {embedding} pode ser de seu interesse. ",
+        "description2": "Se você apenas quer um jeito fácil de colocar um projeto do BubbleWrap no seu site, {embedding} pode ser de seu interesse. ",
         "description2-embedding": "Incorporação",
         "description3": "Relate bugs, dê feedback e sugira ideias {onScratch} ou {onGitHub}.",
         "description3-on": "no {brand}",

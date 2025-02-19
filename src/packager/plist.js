@@ -16,7 +16,7 @@
   <key>CFBundleIconName</key>
   <string>AppIcon</string>
   <key>CFBundleIdentifier</key>
-  <string>org.turbowarp.webviews.mac</string>
+  <string>org.blubblewrap.webviews.mac</string>
   <key>CFBundleInfoDictionaryVersion</key>
   <string>6.0</string>
   <key>CFBundleName</key>

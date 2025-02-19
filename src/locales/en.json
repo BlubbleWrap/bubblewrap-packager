@@ -34,7 +34,7 @@
       "developer_comment": "Error displayed when the packager detects that you are using an old version and that you must refresh to continue."
     },
     "cannotAccessProject": {
-      "string": "Can't access project token. This usually means the project is unshared, never existed, the ID is invalid, or your network is blocking turbowarp.org.",
+      "string": "Can't access project token. This usually means the project is unshared, never existed, the ID is invalid, or your network is blocking BubbleWrap.org.",
       "developer_comment": "Part of the error modal when loading an unshared project."
     },
     "cannotAccessProjectCaching": {
@@ -340,7 +340,7 @@
       "developer_comment": "Option to enable pointerlock"
     },
     "pointerlockHelp": {
-      "string": "Based on a TurboWarp Experiment."
+      "string": "Based on a BubbleWrap Experiment."
     },
     "gamepad": {
       "string": "Support USB or Bluetooth gamepads/controllers"

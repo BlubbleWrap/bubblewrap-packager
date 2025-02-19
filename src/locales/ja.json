@@ -98,7 +98,7 @@
         "pageTitle": "ページの題名",
         "playerOptions": "プレイヤーのオプション",
         "pointerlock": "マウスカーソルをロックする",
-        "pointerlockHelp": "TurboWarpの試験的な機能です。",
+        "pointerlockHelp": "BubbleWrapの試験的な機能です。",
         "preserveRatio": "サイズを変えてもアスペクト比を維持する（推奨）",
         "preview": "プレビュー",
         "projectId": "プロジェクトID",
@@ -149,7 +149,7 @@
     "p4": {
         "browserNotSupported": "ブラウザはサポートしていません",
         "browserNotSupportedDescription": "お使いのブラウザをアップデートしてください。",
-        "cannotAccessProject": "プロジェクトのトークンにアクセスできません。これは、プロジェクトが共有されていない、存在しなかった、IDが無効であること、またはあなたのネットワークがturbowarp.orgにブロックされているを意味します。",
+        "cannotAccessProject": "プロジェクトのトークンにアクセスできません。これは、プロジェクトが共有されていない、存在しなかった、IDが無効であること、またはあなたのネットワークがBubbleWrap.orgにブロックされているを意味します。",
         "cannotAccessProjectCaching": "プロジェクトが最近共有された場合、このメッセージが消えるまで数分かかることがあります。",
         "close": "閉じる",
         "description1": "Scratchプロジェクトを、HTMLファイル、ZIPファイルや、Windows、macOS、Linux用の実行形式プログラムに変換します。",

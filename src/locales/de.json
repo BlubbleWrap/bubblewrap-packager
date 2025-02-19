@@ -97,7 +97,7 @@
         "pageTitle": "Seitentitel",
         "playerOptions": "Player-Optionen",
         "pointerlock": "Mauscursor blockieren",
-        "pointerlockHelp": "Basierend auf einem TurboWarp-Experiment",
+        "pointerlockHelp": "Basierend auf einem BubbleWrap-Experiment",
         "preserveRatio": "Skalierung beibehalten (empfohlen)",
         "preview": "Vorschau",
         "projectId": "Projekt-ID",
@@ -146,7 +146,7 @@
     "p4": {
         "browserNotSupported": "Dein Browser wird nicht unterstützt.",
         "browserNotSupportedDescription": "Bitte aktualisiere deinen Brower.",
-        "cannotAccessProject": "Kein Zugriff auf Projekt-Token. Dies bedeutet normalerweise, dass das Projekt nicht veröffentlicht ist, nicht existiert, die ID ungültig ist oder dein Netzwerk turbowarp.org blockiert.",
+        "cannotAccessProject": "Kein Zugriff auf Projekt-Token. Dies bedeutet normalerweise, dass das Projekt nicht veröffentlicht ist, nicht existiert, die ID ungültig ist oder dein Netzwerk BubbleWrap.org blockiert.",
         "cannotAccessProjectCaching": "Falls das Projekt erst vor kurzem veröffentlicht wurde, könnte es ein paar Minuten dauern, bis diese Nachricht nicht mehr erscheint.",
         "close": "Schließen",
         "description1": "Wandelt Scratch-Projekte in alleinstehende Dateien oder ausführbare Programme um.",

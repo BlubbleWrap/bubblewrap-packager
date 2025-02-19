@@ -82,7 +82,7 @@
         "pageTitle": "Títol de la pàgina",
         "playerOptions": "Opcions del reproductor",
         "pointerlock": "Bloqueja el cursor del ratolí",
-        "pointerlockHelp": "Basat en un experiment de TurboWarp.",
+        "pointerlockHelp": "Basat en un experiment de BubbleWrap.",
         "preserveRatio": "Preserva la relació d'aspecte quan es canvia la mida (recomanat)",
         "preview": "Vista prèvia",
         "projectId": "ID del projecte",
@@ -119,7 +119,7 @@
     "p4": {
         "browserNotSupported": "Explorador no compatible",
         "browserNotSupportedDescription": "Si us plau, actualitza el teu navegador.",
-        "cannotAccessProject": "No es pot accedir al token del projecte. Això normalment significa que el projecte s'ha compartit, no ha exisitit, l'ID no és correcte o la xarxa està bloquejant turbowarp.org.",
+        "cannotAccessProject": "No es pot accedir al token del projecte. Això normalment significa que el projecte s'ha compartit, no ha exisitit, l'ID no és correcte o la xarxa està bloquejant BubbleWrap.org.",
         "cannotAccessProjectCaching": "Si el projecte s'ha compartit recentment, aquest avís pot trigar uns minuts en desaparèixer.",
         "close": "Tanca",
         "description1": "Converteix projectes del Scratch en fitxers HTML, arxius zip o programes executables per el Windows, macOS i Linux.",
